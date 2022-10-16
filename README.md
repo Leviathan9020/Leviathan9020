@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jomar</h1>
-<h3 align="center">I am a web ui software developer and passionate about video games, anime and movies, I am from Colombia,Medellin</h3>
+<h3 align="center">I am a web ui software developer and passionate about video games, anime and movies and playing squash, I am from Colombia, Medellin</h3>
 
 - 🔭 (College Trainee)
 
